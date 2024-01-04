@@ -8,6 +8,7 @@
     font-size: 1.2rem;
     font-weight: 600;
     text-transform: uppercase;
+    color: white;
   }
   .links {
     display: flex;
@@ -19,7 +20,7 @@
   }
   .navlink a {
     text-decoration: none;
-    color: black;
+    color: white;
   }
   .navlink a:hover {
     color: #f9826c;
