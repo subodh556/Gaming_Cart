@@ -35,7 +35,7 @@
     background-color: black;
     color: white; /* Change text color on hover */
   }
-
+  
   .card:hover .image  {
     transform: scale(1.2);
   }
