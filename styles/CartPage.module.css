@@ -8,6 +8,9 @@
     display: flex;
     justify-content: space-between;
   }
+  .heading{
+    margin-bottom: 50px;
+  }
   .header div {
     flex: 1;
     text-align: center;

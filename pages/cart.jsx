@@ -27,6 +27,7 @@ const CartPage = () => {
         <h1>Your Cart is Empty!</h1>
       ) : (
         <>
+          <h1 className={styles.heading}>CART ITEMS</h1>
           <div className={styles.header}>
             <div>Image</div>
             <div>Product</div>
