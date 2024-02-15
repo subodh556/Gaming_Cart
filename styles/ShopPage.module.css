@@ -3,6 +3,8 @@
     text-transform: uppercase;
     margin: 0 1rem 1rem;
     color: white;
+    padding-left:500px;
+    margin-bottom: 100px;
   }
   .container {
     padding: 0 2rem;
